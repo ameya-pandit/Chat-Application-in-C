@@ -1,0 +1,12 @@
+
+
+
+1: P e2 to e4
+2: p e7 to e5
+3: N b1 to c3
+4: b f8 to c5
+
+
+
+
+
