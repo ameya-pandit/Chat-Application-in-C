@@ -29,6 +29,7 @@ This file contains the functions to save the client data in a text file when cli
 5. Main.c
 This file "runs" the modules from the client/server side.
 
+
 SERVER SIDE:
 1. ServerFunctions.c
 This file contains the functions that handle user requests from the server.
@@ -43,7 +44,7 @@ This file contains the functions on server-side to save the client data in a tex
 This file contains the main function for the server program and calls the other functions needed for server operation.
 
 
-Chess Files:
+CHESS FILES:
 Please check out the "main" branch for these files!
 
 1. ChessIO.c
