@@ -1,0 +1,58 @@
+************************************************************************************************
+                                          Chat and Chess 
+                     Quickstart instructions for Server and Chat application
+*************************************************************************************************
+Team04 Teammates: Ameya Pandit Matthew Dunn, Richard Duong, Xingjian Qu, Yuming Wang, Yunhe Shao
+                                        Date: 3/18/2019
+
+Starting Server:
+
+1: type cd bin
+2: type ./Server (port number) (port number is the port that the server will communicate on)
+3: when server shutdown is required type exit and hit enter
+
+
+Starting Chat Program:
+1: type cd bin
+2: type ./Chat <server> <port number>  (port number and server must be where the server is running)
+
+Login:
+1: enter username and password and click "login" 
+  **** a demo account is provided: username: anteater66 password: password ****
+
+Register account:
+1: click register on the login window.
+2: type in a username between 1 - 8 charachters and a password between 1 - 8 charachters
+3: click register if the registration is successfull the login window will appear
+
+Send a message:
+1: double click on a friend in the MyFriends menu, the message window appears
+2: enter the message in the message entry field and click send (you must click send)
+3: hit X to close the window when you are finished
+
+Send a Friend Request:
+1: double click on a user in the Users list. 
+2: click yes on the pop up window if you would like to send the request or close the window
+   if you do not wish to send. The friend will appear in the MyFriends window once they accept
+
+Accept a Freind Request:
+1: double click on a the received request in the FriendRequest list. 
+2: click yes on the pop up window if you would like to accept the request or close the window
+   if you do not wish to accept. The friend will appear in the MyFriends window if accepted.
+
+Delete a user:
+1: double click the name of the user you want to delete in the MyFriends list.
+2: click the "Delete Friend" button on the message window to delete the friend.
+
+Send a chess request:
+1: double click the name of the user you want to play chess with. 
+2: in the message window select either "Play chess white" or "Play chess black"
+   to send a request.
+ ***** move coordination between users is not supported in this version *****
+
+
+
+
+//EOF
+
+
