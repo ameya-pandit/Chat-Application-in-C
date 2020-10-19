@@ -5,7 +5,7 @@ This chat program was written in C by myself and 5 other teammates. Our objectiv
 
 There are two different "projects" that make up this program. The first part is the Chess game (just the src code for the game is on the "main" branch), where we created a GUI to host the game environment (chess board, chess pieces), engineered the Data Strucures to hold the data (using arrays, Doubly Linked Lists, Trees primarily), and created an opponent client with three distinct levels using the Minimax algorithm. The second part is the Chat functionality. We used most of the same Data Structures for accomplishing this task, however the "task" itself was divided into two sub-tasks: building client side and server side. These two sides were connected via socket programming. 
 
-Please reference the software specifications for more indepth analysis on how the program worked!
+Please reference the software specifications for more indepth analysis on how the program worked! (Chat Application Software Specification and Chess Game Software Specification PDF documents)
 
 # Technologies Used #
 Please reference the software specification for more details on the technologies that were used in this project. However, here is a quick list of everything we used: Arrays, Doubly Linked Lists, Trees, Queueing, GUI, Socket Programming (some others listed in the software specification but the aforementioned were the primary technologies used in this project). 
