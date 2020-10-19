@@ -1,4 +1,4 @@
-### Chat Application in C (Chess & Chat) ###
+# Chat Application in C (Chess & Chat) 
 
 # Summary #
 
