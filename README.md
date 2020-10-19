@@ -1,6 +1,6 @@
-# Chat-Application-in-C
+# Chess Game
 
-This is the branch that contains the code to just the Chess game that is played on the Chat Application. Please switch over to the master branch (which is the default branch of this repo), for code related to the "Chess & Chat" project.
+This is the branch that contains the code to just the Chess game that is played on the Chat Application. Please switch over to the "master" branch (which is the default branch of this repo), for code related to the "Chess & Chat" project. The software specifications can also be found on the "master" branch (Chess Game Software Specification and Chat Application Software Specification). 
 
 CHESS FILES: (Please reference the "master" branch for descriptions of the files related to the Chat functionality).
 
